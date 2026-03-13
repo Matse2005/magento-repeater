@@ -1,0 +1,20 @@
+{
+    "name": "matsevh/module-repeater",
+    "description": "MatseVH_Repeater module for Magento 2",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "magento/module-backend": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MatseVH\\Repeater\\": ""
+        }
+    }
+}
