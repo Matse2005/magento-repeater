@@ -22,7 +22,7 @@
     }
   },
   "require": {
-    "php": ">=8.3",
-    "azjezz/psl": "^4.3"
+    "php": ">=8.4",
+    "php-standard-library/php-standard-library": "^6.1"
   }
 }
