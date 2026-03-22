@@ -82,3 +82,6 @@ clover.xml
 !/docs/**
 
 !phpstan.neon
+
+!.github
+!.github/**
