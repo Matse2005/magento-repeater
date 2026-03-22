@@ -78,3 +78,5 @@ clover.xml
 !/packages
 !/packages/**
 
+!/docs
+!/docs/**
