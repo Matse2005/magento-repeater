@@ -21,7 +21,8 @@
     }
   },
   "require-dev": {
-    "phpro/grumphp-shim": "^2.19"
+    "phpro/grumphp-shim": "^2.19",
+    "phpstan/phpstan": "^2.1"
   },
   "config": {
     "allow-plugins": {
