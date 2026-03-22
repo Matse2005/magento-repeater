@@ -1,12 +1,13 @@
 {
-  "name": "magento-repeater-module",
+  "name": "magento-repeater-docs",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus"
   },
   "dependencies": {
-    "docus": "latest",
+    "@vercel/analytics": "^2.0.1",
     "better-sqlite3": "^12.6.2",
+    "docus": "latest",
     "nuxt": "^4.3.1"
   }
 }
